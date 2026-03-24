@@ -21,7 +21,14 @@ LinkedIn <a href="https://www.linkedin.com/in/darshit-sharma-393945361" target="
   <img src="https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&logoColor=white" />
 </a>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshit-sharma-393945361">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 # 💻 Tech Stack  
