@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Connect with Me  
-LinkedIn(www.linkedin.com/in/darshit-sharma-393945361/)   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshitsharma8817@gmail.com)  
+[![LinkedIn]https://img.shields.io(www.linkedin.com/in/darshit-sharma-393945361/)   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshitsharma8817@gmail.com)  
 
 
 ---
