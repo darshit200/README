@@ -12,14 +12,8 @@
 LinkedIn <a href="https://www.linkedin.com/in/darshit-sharma-393945361" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshitsharma8817@gmail.com)  
-<a href="https://www.linkedin.com/in/darshit-sharma-393945361">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-</a>
 
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&logoColor=white" />
-</a>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshit-sharma-393945361">
